@@ -48,9 +48,5 @@ Companies Financial Data: The primary dataset used for this analysis is in "data
 - Sorted & filtered data
 - Created histogram charts for better frequency overview of companies accross market cap & quarterly sales distribution
 - Added Sales Efficiency Ratio column for understanding relationship between market cap & quarterly sales of the company
-- Visualized largest & smallest companies according to market cap & quarterly sales using power bi 
-
-### ACT
-- Reliance Industries stands out with the largest market capitalization, while Ujjivan Financial Services appears to be struggling with both low quarterly sales and low sales efficiency
-- The majority of companies fall within certain ranges of market capitalization and quarterly sales, indicating the typical distribution in the market
-- Overall, these insights provide a snapshot of the market dynamics and the performance of different companies within it.
+- Visualized largest & smallest companies according to market cap & quarterly sales using power bi
+- 
