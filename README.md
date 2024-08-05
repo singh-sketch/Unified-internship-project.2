@@ -49,4 +49,3 @@ Companies Financial Data: The primary dataset used for this analysis is in "data
 - Created histogram charts for better frequency overview of companies accross market cap & quarterly sales distribution
 - Added Sales Efficiency Ratio column for understanding relationship between market cap & quarterly sales of the company
 - Visualized largest & smallest companies according to market cap & quarterly sales using power bi
-- 
